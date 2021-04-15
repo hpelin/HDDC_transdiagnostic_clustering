@@ -1,4 +1,4 @@
-# HDDC_transdiagnostic_clustering
+# Identification of transdiagnostic psychiatric disorder subtypes using unsupervised learning
 
 This is an example code used for the analysis in the work "Identification of transdiagnostic psychiatric disorder subtypes using unsupervised learning":
 Pelin et al., medRxiv 2021.02.04.21251083; doi: https://doi.org/10.1101/2021.02.04.21251083
