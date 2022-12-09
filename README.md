@@ -1,3 +1,5 @@
+![stability-frozen](https://img.shields.io/badge/stability-locked-blue.svg)
+
 # Identification of transdiagnostic psychiatric disorder subtypes using unsupervised learning
 
 This is an example code used for the analysis in the work "Identification of transdiagnostic psychiatric disorder subtypes using unsupervised learning":
